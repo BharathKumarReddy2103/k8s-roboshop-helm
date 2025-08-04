@@ -1,0 +1,3 @@
+statefulset:
+  imageURL: nbkumar2103/mysql
+  imageVersion: v1
