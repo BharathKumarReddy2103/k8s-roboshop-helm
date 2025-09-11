@@ -4,3 +4,4 @@ deployment:
 hpa:
   maxReplicas: 10
   utilisation: 75
+  
